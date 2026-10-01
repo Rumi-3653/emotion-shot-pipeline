@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# 使用者自己的專案不進版控,只保留範例
+projects/*
+!projects/demo_還傘/
